@@ -12,3 +12,7 @@
 ### FIELD
 ## THZ
 # THZ
+
+$$\sigma_0 = A {\kappa T^{-B} \over (l(l+1))^\delta} \exp[-{\beta E_j\over \kappa T}]  $$ 
+
+$$ \delta(x,y) = \begin{cases} &1, x=y \\  & 0 ,x \neq y \end{cases}  $$
