@@ -1,7 +1,7 @@
 from dirsync import sync
 import os
 import subprocess
-source = 'C:\\Users\\ablis\\OneDrive\\Documents\\markdown'
+source = './'
 target = 'D:\\GitHub\\share'
 # 同步源文件夹到目标文件夹
 # result = sync(source, target, 'update', twoway=False)
